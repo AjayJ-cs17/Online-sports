@@ -1,0 +1,52 @@
+body
+{background-color:none;
+background-image:url("../Images/bg.jpg");
+height:100vh;
+background-size: Cover;
+background-position:center;
+}
+*
+{  
+ margin:30;
+  padding:20;
+}
+
+.menu{
+   float:Center;
+   list-style:none;
+   margin:20px;
+}
+.menu li{
+
+ display:Center;
+  margin:10px 5px;
+
+}
+.menu li a{
+text-decoration: none;
+    color: White;
+   padding: 5px 10px;
+  font-family: sans-serif;
+   letter-spacing: 2px;
+   border: 1px solid Transparent;
+
+}
+.menu li a:hover
+{
+background: White;
+  transition:.4s;
+  color:#000;
+}
+.image
+{
+   height:100px;
+   width:100px;
+}
+.footer
+{
+  float:right;
+  font-family:sans-serif;
+  font-size-10px;
+  text-align-Right;
+  color:white
+}

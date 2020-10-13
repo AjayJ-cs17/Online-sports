@@ -1,0 +1,12 @@
+body
+{
+	margin: 10px;
+	padding: 10px;
+	font-family: arial black;
+	font-size:22px;
+	background: url("../Images/Football.jpg") no-repeat;
+	opacity:15;
+	background-size: cover;
+	color: white;
+	position: absolute;
+}

@@ -1,0 +1,11 @@
+body
+{
+	margin: 10px;
+	padding: 10px;
+	font-family: arial black;
+	font-size: 29px;
+	background: url("../Images/Tennis.jpg") no-repeat;
+	background-size: cover;
+	color: black;
+	position: absolute;
+}
